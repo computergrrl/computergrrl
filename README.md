@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @computergrrl
 - 👀 Many repos here, some that were created for fun, and some that were created in the process of working through several Treehouse Tech Degrees. 
-- 🌱 Skills I've learned so far are: JavaScript, Bootstrap, HTML5, CSS, PHP, Sqlite, MVC Frameworks and I am continually learning and doing more. 
-- 💞️ I work daily with students who are learning to code. I help to teach and support them through their learning journeys; troubleshooting, debugging, explaining, and grading their projects.  
+- 🌱 Skills I've learned so far are: JavaScript, HTML5, CSS, PHP, Python, Sass, Bootstrap, Sqlite, MVC Frameworks and I am continually learning and doing more. 
 - 📫 Shoot me an email at: amberstevens.tech@gmail.com! 
 
 <!---
